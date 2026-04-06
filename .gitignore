@@ -1,0 +1,20 @@
+node_modules
+dist    
+.DS_Store
+.vscode 
+.env
+.env.local  
+# Frontend template files moved to test/ (not part of this project)
+test/src/
+test/public/
+test/biome.json
+test/uno.config.ts
+test/vite.config.ts
+test/pnpm-lock.yaml
+test/tsconfig.node.json
+test/index.html
+test/package.json
+test/package-lock.json
+test/.node-version
+test/.npmrc
+test/readme.md
